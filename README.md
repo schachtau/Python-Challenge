@@ -4,17 +4,16 @@ In this project python is our tool to perform two main tasks-
 
 2. The code analyzes election data from a CSV file to calculate the total number of votes therefore the winner, and display the percentage of votes for each candidate.
 
-The results of both analyses are printed to the terminal and saved in separate text files.
+The results of both analyses are in separate text files.
 
-Financial Analysis
 The financial analysis includes the following details:
 
 Total Months: The number of months in the dataset.
 Total: The total amount of profit/loss over all the months.
 Average Change: The average change in profit/loss over the entire period.
-Greatest Increase in Profits: The month with the largest increase in profit, along with the amount.
-Greatest Decrease in Profits: The month with the largest decrease in profit, along with the amount.
-Election Analysis
+Biggest Increase in Profits: The month with the largest increase in profit, along with the amount.
+Worst Decrease in Profits: The month with the largest decrease in profit, along with the amount.
+
 The election analysis includes the following details:
 
 Total Votes: The total number of votes cast in the election.
